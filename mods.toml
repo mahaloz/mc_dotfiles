@@ -1,0 +1,68 @@
+#
+# individual mods
+#
+
+[xaeros_minimap]
+url = "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files"
+description = "A minimap is placed on your HUD which shows mobs and terrain"
+
+[xaeros_worldmap]
+url = "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files"
+description = "A helper mod to xaeros_minimap that records full world exploration and waypoints"
+
+[minihud]
+url = "https://www.curseforge.com/minecraft/mc-mods/minihud/files"
+description = "A (Masa) technical mod for examining world attributes, like bees in a box or items in a shulker"
+
+[litematica]
+url = "https://www.curseforge.com/minecraft/mc-mods/litematica/files"
+description = "A (Masa) mod for transparent fill-in schematics for building structues" 
+
+[freecam]
+url = "https://www.curseforge.com/minecraft/mc-mods/free-cam/files"
+description = "Allows you to fly out of your body like in spectator to examine the loaded area"
+
+[roughly_enough_items]
+url = "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files"
+description = "Adds a crafting HUD to your screen and allows mass crafting of items"
+
+[scroll_fix_macos]
+url = "https://www.curseforge.com/minecraft/mc-mods/shift-scroll-fix/files"
+description = "Fixes MacOS Minecraft so you can scroll while holding shift"
+platforms = ["darwin"]
+
+#
+# mod packs
+#
+
+[fabulously_optimized]
+url = "https://github.com/Fabulously-Optimized/fabulously-optimized/releases"
+description = "A series of graphics and utility mods for making Minecraft faster. Includes zoom and shaders"
+
+
+#
+# required libraries
+#
+
+[malilib]
+url = "https://www.curseforge.com/minecraft/mc-mods/malilib/files"
+description = "A requirement mod for the Masa mods like Litematica and Minihud"
+
+[architectury_api]
+url = "https://www.curseforge.com/minecraft/mc-mods/architectury-api/files"
+description = "A helper library for modes like REI"
+
+[cloth_config]
+url = "https://www.curseforge.com/minecraft/mc-mods/cloth-config/files"
+description = "A helper library for modes like REI"
+
+#
+# deprecated
+#
+
+# => Already present in fab_optimized pack 
+#[fabric_api]
+#url = "https://www.curseforge.com/minecraft/mc-mods/fabric-api/files"
+#description = "The helper library needed fore most fabric mods"
+
+
