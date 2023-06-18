@@ -61,8 +61,8 @@ description = "A helper library for modes like REI"
 #
 
 # => Already present in fab_optimized pack 
-#[fabric_api]
-#url = "https://www.curseforge.com/minecraft/mc-mods/fabric-api/files"
-#description = "The helper library needed fore most fabric mods"
+[fabric_api]
+url = "https://www.curseforge.com/minecraft/mc-mods/fabric-api/files"
+description = "The helper library needed fore most fabric mods"
 
 
