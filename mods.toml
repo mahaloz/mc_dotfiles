@@ -36,8 +36,8 @@ platforms = ["darwin"]
 #
 
 [fabulously_optimized]
-url = "https://github.com/Fabulously-Optimized/fabulously-optimized/releases"
-description = "A series of graphics and utility mods for making Minecraft faster. Includes zoom and shaders"
+url = "https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files"
+description = "A series of graphics and utility mods for making Minecraft faster. Includes zoom and shaders. To install, go to link -> top link -> Alternative Download and install all the mods."
 
 
 #
